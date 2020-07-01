@@ -1,0 +1,42 @@
+body {
+	font-size: 16px;
+	background-color: #bebebe;
+}
+
+#nav-header {
+	background-color: #696969;
+}
+
+h2, h3 {
+	margin: 10px 0 15px 0;
+	font-weight: bold;
+}
+
+* {
+   box-sizing: border-box;
+}
+
+.conteudo {
+	padding: 5px 10px;
+	text-align: justify;
+	background-color: #696969;
+	border: 3px solid;
+	margin-bottom: 20px;
+	border-radius: 10px;
+}
+
+.nav-item {
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#butao {
+	background-color: #F0F8FF;
+	border-top: 3px solid;
+	border-bottom: 5px solid;
+}
+
+li {
+	border-top: 2px solid;
+}
