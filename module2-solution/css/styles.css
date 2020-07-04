@@ -26,6 +26,7 @@ h3 {
 }
 
 p {
+	clear: right;
 	padding: 0 10px;
 	text-align: justify;
 }
